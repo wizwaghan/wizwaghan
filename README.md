@@ -1,5 +1,5 @@
 <h1 align="center">C++ Python PHP </h1>
-<h3 align="center">my interests are usually to present you c++ python
+<h3 align="center">My İnterests Are Usually To Present You C++ Python
 </h3>
 
 ---
