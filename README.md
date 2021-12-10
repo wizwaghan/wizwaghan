@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">C++ Python PHP </h1>
+<h3 align="center">my interests are usually to present you c++ python
+</h3>
 
-<!--
-**wizwaghan/wizwaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h3 align="center">:</h3>
+ <h3 align="center"><h3 align="center"> - Bana Kısaca Vezir Diyebilirsin</h3></h3>
+</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+   <a href="https://discord.com/users/852630381614071858" target="_blank"> 
+   </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
