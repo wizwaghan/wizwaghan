@@ -12,11 +12,9 @@
     
    </a>
  
-<img src="https://github-readme-stats.vercel.app/api?username=wizwaghan&&show_icons=true&count_private=true&theme=github_dark">|<img src=""/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelna17&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=wizwaghan&&show_icons=true&count_private=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizwaghan&layout=compact&theme=github_dark"/>|
 
-## Programming Languages
 
 <p>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
