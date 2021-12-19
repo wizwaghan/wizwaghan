@@ -13,7 +13,3 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
-<div align="center">
-   <a href="https://discord.com/users/852630381614071858" target="_blank">
-    
-   </a>
