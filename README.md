@@ -3,8 +3,9 @@
  <h3 align="center"><h3 align="center"></h3></h3>
 </h3>
  
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=wizwaghan&&show_icons=true&count_private=true&theme=github_dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizwaghan&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizwaghan&layout=compact&theme=github_dark">
 
 
 <p>
