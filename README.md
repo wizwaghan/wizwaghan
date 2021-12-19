@@ -1,12 +1,7 @@
 
-<h3 align="center">HACK WORLD ANALYSE AND ATTACK SHADOW SYSTEM</h3>
+<h3 align="center">Hack World Analyse and Attack Shadow System</h3>
  <h3 align="center"><h3 align="center"></h3></h3>
 </h3>
-
-<div align="center">
-   <a href="https://discord.com/users/852630381614071858" target="_blank">
-    
-   </a>
  
 <img src="https://github-readme-stats.vercel.app/api?username=wizwaghan&&show_icons=true&count_private=true&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizwaghan&layout=compact&theme=github_dark"/>|
@@ -18,3 +13,7 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
+<div align="center">
+   <a href="https://discord.com/users/852630381614071858" target="_blank">
+    
+   </a>
